@@ -13,6 +13,12 @@
 - 🤝 I'm looking for help with **learning blockchain technologies**
 
 - 💬 Ask me about **web development**
+- Mission
+
+To engineer software solutions that empower businesses, governments, and communities through intelligent systems, spatial technologies, and artificial intelligence.
+-Vision
+
+To become a world-class Software Engineer creating innovative digital products that transform industries across Africa and beyond.--
 
 - 📫 How to reach me **mhangafadhili.e@gmal.com**
 
