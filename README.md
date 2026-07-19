@@ -16,7 +16,8 @@
 - Mission
 
 To engineer software solutions that empower businesses, governments, and communities through intelligent systems, spatial technologies, and artificial intelligence.
--Vision
+
+- Vision
 
 To become a world-class Software Engineer creating innovative digital products that transform industries across Africa and beyond.--
 
